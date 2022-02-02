@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Payoneer Exercise</string>
+
+    <string name="checkout_list_title">Payoneer Exercise App</string>
+    <string name="checkout_list_subtitle">by Brian Robles</string>
+    <string name="checkout_list_label">Code</string>
+    <string name="checkout_list_error">An error occurred while\nloading payment codes</string>
+    <string name="action_find">Find</string>
+
+    <string name="checkout_error_unavailable">Payment codes are currently unavailable</string>
+    <string name="checkout_error_notfound">The payment code \"%s\" was not found</string>
+    <string name="action_ok">OK</string>
+</resources>
